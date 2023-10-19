@@ -1,0 +1,26 @@
+header{
+    background-color: black;
+}
+.info{
+    color: white;
+    text-align: center;
+}
+.logo{
+text-align: center;
+}
+body{
+    background-color: black;
+}
+.tbd{
+    text-align: left;
+}
+.agd{
+    text-align: right;
+}
+.informações{
+    text-align: center;
+    
+}
+nav a{
+    color: #b4918f;
+}
